@@ -1,0 +1,6 @@
+soap,10,55
+product added
+maggie,45,36
+product added
+maggie updated
+

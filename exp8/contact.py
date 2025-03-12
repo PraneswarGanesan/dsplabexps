@@ -40,6 +40,7 @@ def search_contact(name):
         if not found:
             print("Contact not found.")
 
+# Main menu
 while True:
     print("\nContact Management System")
     print("1. Add Contact")
